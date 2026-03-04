@@ -12,11 +12,6 @@ how historical cycles can guide smarter moves.
 Because when you can't see the full picture, you think 
 you're diversified when you're actually not. 2022 proved that.
 
-\
-\
-\
-\
-\
 
 # Crypto & Stock Market Correlation Analysis
 Analyzing correlations between Bitcoin and traditional market indices.
