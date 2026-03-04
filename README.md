@@ -1,7 +1,25 @@
-# super-funicular
-Analyzing correlations between Bitcoin and traditional market indices.
+## Why I Built This
+
+Most platforms treat crypto and stocks as separate worlds — 
+but they're not so different when you think of them both as 
+opportunities for wealth.
+
+This project joins those two worlds. It's built to help 
+investors make informed decisions based on crypto and stock 
+cycles — whether to stay cautious, when to buy more, and 
+how historical cycles can guide smarter moves.
+
+Because when you can't see the full picture, you think 
+you're diversified when you're actually not. 2022 proved that.
+
+\
+\
+\
+\
+\
 
 # Crypto & Stock Market Correlation Analysis
+Analyzing correlations between Bitcoin and traditional market indices.
 
 ## Project Overview
 This project explores my obsession with the different relationships beetween Bitcoin and traditional market indices (S&P 500, NASDAQ, Dow Jones) to understand how crypto and stock markets move together - or don't.
