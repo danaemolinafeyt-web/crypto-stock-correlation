@@ -26,12 +26,11 @@ Most trading platforms treat crypto and stocks as separate worlds.This project c
  |2026-03-03 Tuesday|
 Correlation findings (2020 - Present)
 
-|                |                  |
 Index      Correlation with Bitcoin
 NASDAQ     0.41
 S&P 500    0.38
 Dow Jones  0.35
-|                |                  |
+
 
 *Note: S&P 500 correlation since 2010 is only 0.23, confirming that institutional adoption after 2002 strengthened the relationship.*
 
