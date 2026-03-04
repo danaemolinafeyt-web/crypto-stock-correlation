@@ -31,3 +31,5 @@ correlation = aligned[0].corr(aligned[1])
 print(f"Correlation between Bitcoin and NASDAQ: {correlation:.2f}")
 
 plt.show()
+
+# The correlation between Bitcoin and NASDAQ is: 0.41
