@@ -23,15 +23,30 @@ This project explores my obsession with the different relationships beetween Bit
 Most trading platforms treat crypto and stocks as separate worlds.This project challanges that by finding real correlations, cycles, and patterns across both asset classes.
 
 ## Current Analysis
- |2026-03-03 Tuesday|
+| 2026-03-04 Wednesday|
+Rolling 90-day correlation chart - Bitcoin vs S&P 500
+
+What I found:
+-	Correlation is NOT static – it changes dramatically over time
+-	Peaked at ~0.65 during 2022 market crash
+-	Dropped near 0.0 in 2023-2024 when Bitcoin decoupled.
+-	Currently climbing back toward 0.5 in early 2026.
+What it means for investors:
+-	High correlation = macro forces driving Bitcoin, watch the broader market
+-	Low correlation = crypto- specific forces driving bitcoin, watch halving cycles and sentiment
+-	Current rising correlation suggests market uncertainty ahead. 
+My prediction: After this crisis
+
+
+|2026-03-03 Tuesday|
 Correlation findings (2020 - Present)
 
 NASDAQ     0.41
 S&P 500    0.38
 Dow Jones  0.35
 
-
 *Note: S&P 500 correlation since 2010 is only 0.23, confirming that institutional adoption after 2002 strengthened the relationship.*
+
 
 ## Coming Soon
 - Bitcoin vs NASDAQ comparison
